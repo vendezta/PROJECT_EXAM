@@ -52,7 +52,7 @@ public class MovieStoreServiceImp implements MovieStoreServiceInf {
         return CompletableFuture.completedFuture(directors);
 	}
 
-	@Override
+	@Async
 	public CompletableFuture<List<MovieBean>> getMoviesByCriteria(MovieSearchCriteriaBean searchCriteria) {
 		 LOGGER.info("Get MoviesByCriteria Service. ");
 		 
