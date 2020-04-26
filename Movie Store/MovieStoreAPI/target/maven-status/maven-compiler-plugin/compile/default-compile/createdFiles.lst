@@ -1,0 +1,13 @@
+movie/store/api/model/dao/GenreBean.class
+movie/store/api/model/dao/MovieBean.class
+movie/store/api/dao/GenreDao.class
+movie/store/api/dao/DirectorDao.class
+movie/store/api/service/MovieStoreServiceImp.class
+movie/store/api/service/MovieStoreServiceInf.class
+movie/store/api/controller/MovieStoreController.class
+movie/store/api/AsyncConfiguration.class
+movie/store/api/model/dao/DirectorBean.class
+movie/store/api/dao/MovieDaoImp.class
+movie/store/api/model/MovieStoreCriteriaBean.class
+movie/store/api/dao/MovieDao.class
+movie/store/api/MovieStoreApp.class

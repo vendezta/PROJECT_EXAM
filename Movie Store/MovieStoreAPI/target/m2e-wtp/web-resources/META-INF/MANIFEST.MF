@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: MovieStoreAPI Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: panvirajulaiyanon
+Implementation-Vendor-Id: movie.store.apis
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
